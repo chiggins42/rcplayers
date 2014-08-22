@@ -4,14 +4,36 @@
 	body{
 		font-family: lato;
 	}
+	#page_wrap{
+		width: 1000px;
+	}
+	#main{
+		margin-left: 20px;
+		width: 950px;
+		float: left;
+	}
+	#head{
+		opacity: 0.5;
+		width:950px;
+		height:70px;
+		border: 1px solid;
+		border-radius: 10px;  
+		top:0px;
+		background-color: white;
+		position:fixed;
+		text-align: right;
+	}
 </style>
 <html>
 <title>RC Players</title>
 
-<header></header>
-<body id= "main" style = "background-color:black; color:white;">
-	<h1 style = "text-align:left;">RC Players</h1>
+<div id= "head">
+hello
+</div>
+<div id= "page_wrap">
+	<body id= "main" style = "background-color:black; color:white;">
+		<h1 style = "text-align:left; font-size:60px"> <br>RC Players</h1>
 
-</body>
-
+	</body>
+</div>
 </html>
