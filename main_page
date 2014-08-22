@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<link href='http://fonts.googleapis.com/css?family=Lato:100,400,900' rel='stylesheet' type='text/css'>
+<style>
+	body{
+		font-family: lato;
+	}
+</style>
+<html>
+<title>RC Players</title>
+
+<header></header>
+<body id= "main" style = "background-color:black; color:white;">
+	<h1 style = "text-align:left;">RC Players</h1>
+
+</body>
+
+</html>
